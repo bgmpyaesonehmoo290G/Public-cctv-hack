@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 #github.com/bgmpyaesone0290G
-
+clear
 import requests, re , colorama
 colorama.init()
 print("""
